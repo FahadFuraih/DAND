@@ -1,0 +1,2 @@
+SELECT *
+FROM city_list WHERE country = 'Saudi Arabia'
